@@ -62,12 +62,8 @@ This repository contains a concise comparative analysis of the free property-lis
 - `HOUSING_final.pptx` — Full slide deck with findings and visual comparisons.  
 - `README.md` — This document.
 
-*(If you keep additional artifacts — add them here: `data/`, `scripts/`, `images/` etc.)*
+
 
 ---
 
-## How to Use
-1. Clone the repo:  
-   ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+
